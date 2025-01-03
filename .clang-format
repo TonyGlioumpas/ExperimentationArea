@@ -1,0 +1,22 @@
+---
+BasedOnStyle: Google
+IndentWidth: 4
+
+---
+Language: Cpp
+ColumnLimit: 160
+AccessModifierOffset: -4
+NamespaceIndentation: Inner
+BreakBeforeBraces: Custom
+BraceWrapping:
+    AfterClass: true
+    AfterFunction: true
+    AfterEnum: true
+    AfterStruct: true
+    AfterControlStatement: true
+    AfterNamespace: true
+    BeforeElse: true
+    BeforeCatch: true
+    SplitEmptyFunction: false
+InsertBraces: true
+SeparateDefinitionBlocks: Leave

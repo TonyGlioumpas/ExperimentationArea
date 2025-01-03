@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/aglioumpas/Documents/Experimentation_Area/CPP_Experiments/src",
+    "C_Cpp.clang_format_style": "file",
+    "editor.formatOnSave": true,
+    "clang-format.executable": "clang-format"
+}
+
+  

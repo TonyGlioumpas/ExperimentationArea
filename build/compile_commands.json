@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aglioumpas/Documents/Experimentation_Area/CPP_Experiments/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/CPP_Experiments.dir/main.cpp.o -c /home/aglioumpas/Documents/Experimentation_Area/CPP_Experiments/src/main.cpp",
+  "file": "/home/aglioumpas/Documents/Experimentation_Area/CPP_Experiments/src/main.cpp",
+  "output": "CMakeFiles/CPP_Experiments.dir/main.cpp.o"
+}
+]
